@@ -25,19 +25,19 @@ Java • Selenium • TestNG • Maven • SQL • HTML • CSS • JavaScript �
 * Personal Portfolio Website
 
 ---
-
 # 📫 Connect With Me
 
-* **LinkedIn:** [jatin-6350832b7](https://www.linkedin.com/in/jatin-6350832b7/)
-* **Portfolio:** [Visit My Portfolio](https://jatin-portfolio-kappa.vercel.app/)
-* **GitHub:** [jatinrana331gm](https://github.com/jatinrana331gm)
+<p align="left">
+<a href="https://www.linkedin.com/in/jatin-6350832b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatin-6350832b7" height="30" width="40" /></a>
+<a href="https://jatin-portfolio-kappa.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="30" width="40" /></a>
+</p>
 
 ---
 
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatinrana331gm&show_icons=true&theme=tokyonight" alt="Jatin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jatinrana331gm&show_icons=true&theme=tokyonight&count_private=true" alt="Jatin's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -45,5 +45,5 @@ Java • Selenium • TestNG • Maven • SQL • HTML • CSS • JavaScript �
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jatinrana331gm&label=Profile%20Views&color=0078d7&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=jatinrana331gm&label=PROFILE+VIEWS&color=0078d7&style=flat" alt="Profile Views" />
 </p>
