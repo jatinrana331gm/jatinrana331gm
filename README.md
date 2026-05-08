@@ -36,14 +36,13 @@ Java • Selenium • TestNG • Maven • SQL • HTML • CSS • JavaScript �
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="<img width="1918" height="642" alt="image" src="https://github.com/user-attachments/assets/f167214a-de95-4266-82f5-43d625feb70b" />
-" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jatinrana331gm&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinrana331gm&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinrana331gm&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jatinrana331gm&color=blue" />
-</p> 
+  <img src="https://komarev.com/ghpvc/?username=jatinrana331gm&color=blue" alt="Profile Views" />
+</p>
