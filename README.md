@@ -47,3 +47,4 @@ Java • Selenium • TestNG • Maven • SQL • HTML • CSS • JavaScript �
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinrana331gm&theme=tokyonight" />
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=jatinrana331gm&color=blue)
