@@ -1,10 +1,10 @@
 # Hi 👋, I'm Jatin Rana
 
-## QA Automation Engineer | Selenium | Java | TestNG
+## QA Automation Engineer | Selenium | Java | TestNG | Maven
 
 * 🔭 Working on Selenium Automation Frameworks
 * 🌱 Learning Advanced Automation Testing & API Testing
-* 💻 Skilled in Java, Selenium WebDriver, TestNG, Maven, HTML, CSS, JavaScript
+* 💻 Skilled in Java, Selenium WebDriver, TestNG, Maven, SQL, HTML, CSS, JavaScript
 * 🚀 Built Banking, E-Commerce, Flight Booking & Web Automation Projects
 * 🎓 MCA Graduate (2025)
 
@@ -19,22 +19,22 @@ Java • Selenium • TestNG • Maven • SQL • HTML • CSS • JavaScript �
 # 📌 Featured Projects
 
 * SauceDemo Automation Framework
-* ParaBank Automation
+* ParaBank Automation Framework
 * Amazon Selenium Framework
-* Book Library App
-* Portfolio Website
+* Book Library Web App
+* Personal Portfolio Website
 
 ---
 
 # 📫 Connect With Me
 
-* LinkedIn:
+* LinkedIn
   https://www.linkedin.com/in/jatin-6350832b7/
 
-* Portfolio:
+* Portfolio
   https://jatin-portfolio-kappa.vercel.app/
 
-* GitHub:
+* GitHub
   https://github.com/jatinrana331gm
 
 ---
@@ -47,4 +47,6 @@ Java • Selenium • TestNG • Maven • SQL • HTML • CSS • JavaScript �
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinrana331gm&theme=tokyonight" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=jatinrana331gm&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jatinrana331gm&color=blue" />
+</p>
