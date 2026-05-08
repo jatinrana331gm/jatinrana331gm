@@ -36,7 +36,8 @@ Java • Selenium • TestNG • Maven • SQL • HTML • CSS • JavaScript �
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatinrana331gm&show_icons=true&theme=tokyonight" />
+  <img src="<img width="1918" height="642" alt="image" src="https://github.com/user-attachments/assets/f167214a-de95-4266-82f5-43d625feb70b" />
+" />
 </p>
 
 <p align="center">
