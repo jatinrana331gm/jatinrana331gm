@@ -40,7 +40,7 @@ Java • Selenium • TestNG • Maven • SQL • HTML • CSS • JavaScript �
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinrana331gm&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinrana331gm&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
